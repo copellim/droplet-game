@@ -1,0 +1,92 @@
+{
+  "frames": {
+    "cloud-happy": {
+      "frame": {
+        "x": 389,
+        "y": 215,
+        "w": 272,
+        "h": 175
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 272,
+        "h": 175
+      },
+      "sourceSize": {
+        "w": 272,
+        "h": 175
+      }
+    },
+    "cloud-content": {
+      "frame": {
+        "x": 389,
+        "y": 0,
+        "w": 333,
+        "h": 214
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 333,
+        "h": 214
+      },
+      "sourceSize": {
+        "w": 333,
+        "h": 214
+      }
+    },
+    "cloud-neutral": {
+      "frame": {
+        "x": 0,
+        "y": 277,
+        "w": 376,
+        "h": 231
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 376,
+        "h": 231
+      },
+      "sourceSize": {
+        "w": 376,
+        "h": 231
+      }
+    },
+    "cloud-worried": {
+      "frame": {
+        "x": 0,
+        "y": 9,
+        "w": 388,
+        "h": 229
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 388,
+        "h": 229
+      },
+      "sourceSize": {
+        "w": 388,
+        "h": 229
+      }
+    }
+  },
+  "meta": {
+    "image": "cloud-spritesheet.png",
+    "size": {
+      "w": 722,
+      "h": 508
+    },
+    "scale": "1"
+  }
+}

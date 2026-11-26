@@ -1,0 +1,31 @@
+{
+  "frames": {
+    "plant-seed": {
+      "frame": { "x": 0, "y": 6, "w": 339, "h": 218 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 339, "h": 218 },
+      "sourceSize": { "w": 339, "h": 218 }
+    },
+    "plant-sprout": {
+      "frame": { "x": 0, "y": 233, "w": 368, "h": 317 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 368, "h": 317 },
+      "sourceSize": { "w": 368, "h": 317 }
+    },
+    "plant-grown": {
+      "frame": { "x": 374, "y": 0, "w": 349, "h": 370 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 349, "h": 370 },
+      "sourceSize": { "w": 349, "h": 370 }
+    }
+  },
+  "meta": {
+    "image": "plant-spritesheet.png",
+    "size": { "w": 723, "h": 550 },
+    "scale": "1"
+  }
+}
+

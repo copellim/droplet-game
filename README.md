@@ -1,5 +1,7 @@
 # Goccia (droplet-game)
 
+Play it at [goccia.michelecopelli.it](https://goccia.michelecopelli.it).
+
 A calm educational web game for young children. You follow a small water droplet
 through the water cycle: the sun warms the sea, the droplet evaporates into a cloud,
 falls as rain, soaks into the ground and helps a plant grow, then the cycle starts
